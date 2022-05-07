@@ -1,6 +1,6 @@
 
 
-<img align="right" height="598em" src="https://cdn.discordapp.com/attachments/481619721448456192/972406631335874570/oceanside.png" />
+<img align="right" height="598em" src="https://cdn.discordapp.com/attachments/481619721448456192/972412089836650526/ceu1.png" />
 
 <h1 align="left"> Hi and welcome! </h1>
 

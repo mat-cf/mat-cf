@@ -5,7 +5,7 @@
 <h1 align="left"> Hi and welcome! </h1>
 
 ### About me!
-<p> Currently studying <i>Information Systems</i> on ESPM, São Paulo </p>
+<p> Currently studying <i>Information Systems</i> at ESPM, São Paulo </p>
 
 - 🎉 Fullstack Dev kinda
 - 🔭 Currently learning <b>ReactJS</b>

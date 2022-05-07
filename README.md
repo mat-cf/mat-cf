@@ -9,6 +9,7 @@
 
 - 🎉 Fullstack Dev kinda
 - 🔭 Currently learning <b>ReactJS</b>
+- 🎲 Planning to learn Data Analysis 
 - 🕹 I really like gaming
 - 🎲 My goal is to always keep learning 
 - 🎵 Bassist

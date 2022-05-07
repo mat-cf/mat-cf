@@ -1,6 +1,4 @@
-<img class="master" align="center" src='https://pin.it/50lEWj6'>
-
-
+<img width="1000em" align="center" src='https://cdn.discordapp.com/attachments/481619721448456192/972400294963056650/ceu.png'>
 
 <h1 align="left"> Hi and welcome! </h1>
 
@@ -15,8 +13,6 @@
 - 🎵 Bassist
 
 ### Languages and Tools:
-
-
 
 <img align="left" width="22" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
@@ -44,12 +40,16 @@
 </br>
  
  ### How to reach me
+ 
+ 
 [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/>][twitter]
 [<img align="left"  alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg"/>][instagram]
 
+</br>
+</br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluz1n&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/matheus-arruda-3a5657181/

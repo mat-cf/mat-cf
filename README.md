@@ -1,4 +1,4 @@
-<img width="900em" align="center" src='https://cdn.discordapp.com/attachments/481619721448456192/972400294963056650/ceu.png'>
+<img width="800em" align="center" src='https://cdn.discordapp.com/attachments/481619721448456192/972400294963056650/ceu.png'>
 
 <h1 align="left"> Hi and welcome! </h1>
 

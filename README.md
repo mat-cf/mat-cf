@@ -41,7 +41,7 @@
   
 </br>
  
- ### How to reach me
+ ### How to reach me 
  
  
 [<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>][linkedin]

@@ -11,7 +11,7 @@
 - 🔭 Currently learning <b>ReactJS</b>
 - 🎲 Planning to learn Data Analysis 
 - 🕹 I really like gaming
-- 🎲 My goal is to always keep learning 
+- 🏁 My goal is to always keep learning 
 - 🎵 Bassist
 
 ### Languages and Tools:
@@ -44,9 +44,9 @@
  ### How to reach me 
  
  
-[<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg"/>][twitter]
-[<img align="left"  alt="Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/fluency/344/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Twitter" width="24px" src="https://img.icons8.com/fluency/344/twitter.svg"/>][twitter]
+[<img align="left"  alt="Instagram" width="24px" src="https://img.icons8.com/fluency/344/instagram-new.svg"/>][instagram]
 
 
 </br>

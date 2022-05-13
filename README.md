@@ -7,7 +7,7 @@
 ### About me!
 <p> <i>Information Systems</i> student at ESPM, São Paulo </p>
 
-- 🎉 Fullstack Dev kinda
+- 🎉 Web Dev
 - 🔭 Currently learning <b>Spring</b>
 - 🎲 Planning to learn Data Analysis 
 - 🕹 I really like gaming

@@ -44,7 +44,7 @@
  ### How to reach me 
  
  
-[<img align="left" target="_blank" alt="LinkedIn" width="24px" src="https://img.icons8.com/fluency/344/linkedin.svg"/>][linkedin]
+[<img align="left" target="_blank" alt="LinkedIn" width="24px" src="https://img.icons8.com/fluency/344/linkedin.svg" target="_blank"/>][linkedin]
 [<img align="left" target="_blank" alt="Twitter" width="24px" src="https://img.icons8.com/fluency/344/twitter.svg"/>][twitter]
 [<img align="left" target="_blank" alt="Instagram" width="24px" src="https://img.icons8.com/fluency/344/instagram-new.svg"/>][instagram]
 

@@ -8,8 +8,8 @@
 <p> <i>Information Systems</i> student at ESPM, São Paulo </p>
 
 - 🎉 Web and Data dev!
-- 🔭 Currently learning <b>Spring</b>
-- 🎲 Planning to learn Data Analysis 
+- 🔭 Currently learning <b>Data Visualization and SQL</b>
+- 🎲 Planning to learn Clojure 
 - 🕹 I really like gaming
 - 🏁 My goal is to always keep learning 
 - 🎵 Bassist

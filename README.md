@@ -11,7 +11,7 @@
 - 🔭 Currently learning <b>Data Visualization and SQL</b>
 - 🎲 Planning to learn Clojure 
 - 🕹 I really like gaming
-- 🏁 My goal is to always keep learning 
+- 🏁 Always keep learning 
 - 🎵 Bassist
 
 ### Languages and Tools:

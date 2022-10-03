@@ -52,8 +52,6 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluz1n&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [linkedin]: https://www.linkedin.com/in/matheus-arruda-3a5657181/
 [twitter]: https://twitter.com/bluz1n

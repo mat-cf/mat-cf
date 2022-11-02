@@ -9,7 +9,6 @@
 
 - 🎉 Web and Data dev!
 - 🔭 Currently learning <b>Data Visualization and SQL</b>
-- 🎲 Planning to learn Clojure 
 - 🕹 I really like gaming
 - 🏁 Always keep learning 
 - 🎵 Bassist

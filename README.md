@@ -9,9 +9,6 @@
 
 - 🎉 Web and Data dev!
 - 🔭 Currently learning <b>Data Visualization and SQL</b>
-- 🕹 I really like gaming
-- 🏁 Always keep learning 
-- 🎵 Bassist
 
 ### Languages and Tools:
 

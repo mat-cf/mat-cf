@@ -8,7 +8,7 @@
 <p> <i>Information Systems</i> student at ESPM, São Paulo </p>
 
 - 🎉 Web and Data dev!
-- 🔭 Currently learning <b>Data Visualization and SQL</b>
+- 🔭 Currently learning <b>Data Visualization and Machine Learning</b>
 
 ### Languages and Tools:
 

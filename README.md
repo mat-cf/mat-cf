@@ -5,7 +5,7 @@
 <h1 align="left"> Hi and welcome! </h1>
 
 ### About me!
-<p> <i>Information Systems</i> student at ESPM, São Paulo </p>
+<p> <i>IT Onboarding</i> intern at BTG Pactual, São Paulo </p>
 
 - 🎉 Web and Data dev!
 - 🔭 Currently learning <b>Data Visualization and Machine Learning</b>

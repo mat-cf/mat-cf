@@ -5,10 +5,10 @@
 <h1 align="left"> Hi and welcome! </h1>
 
 ### About me!
-<p> <i>IT Onboarding</i> intern at BTG Pactual, São Paulo </p>
+<p> <i>Software Engineer</i> at BTG Pactual, São Paulo </p>
 
 - 🎉 Web and Data dev!
-- 🔭 Currently learning <b>Data Visualization and Machine Learning</b>
+- 🔭 Currently learning <b>Vue</b>
 
 ### Languages and Tools:
 

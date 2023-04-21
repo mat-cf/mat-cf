@@ -5,7 +5,7 @@
 <h1 align="left"> Hi and welcome! </h1>
 
 ### About me!
-<p> <i>Software Engineer</i> at BTG Pactual, São Paulo </p>
+<p> <i>Software Engineer</i>, São Paulo </p>
 
 - 🎉 Web and Data dev!
 - 🔭 Currently learning <b>Vue</b>

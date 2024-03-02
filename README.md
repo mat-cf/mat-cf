@@ -7,7 +7,7 @@
 <p> <i>Software Engineer</i>, São Paulo </p>
 
 - 🎉 Web and Data dev!
-- 🔭 Currently learning <b>Vue</b>
+- 🔭 Currently working on [this repository](https://github.com/bluz1n/portfolio)
 
 ### Languages and Tools:
 

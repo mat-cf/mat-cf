@@ -7,7 +7,7 @@
 <p> <i>Software Engineer</i>, São Paulo </p>
 
 - 🎉 Web and Data dev!
-- 🔭 Currently working on [this repository](https://github.com/bluz1n/portfolio)
+- 🔭 Currently working on [this repository](https://github.com/mat-cf/task-manager)
 
 ### Languages and Tools:
 

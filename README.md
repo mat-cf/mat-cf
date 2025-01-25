@@ -1,13 +1,10 @@
 
 
-
-<h1 align="left"> Hi and welcome! </h1>
-
-### About me!
+### hello
 <p> <i>Software Engineer</i>, São Paulo </p>
 
 - 🎉 Web and Data dev!
-- 🔭 Currently working on [this repository](https://github.com/mat-cf/task-manager)
+- 🔭 Currently working on [?]()
 
 ### Languages and Tools:
 

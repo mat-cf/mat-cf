@@ -4,7 +4,7 @@
 <p> <i>Software Engineer</i>, São Paulo </p>
 
 - 🎉 Web and Data dev!
-- 🔭 Currently working on [?]()
+- 🔭 Currently working on **__**
 
 ### Languages and Tools:
 

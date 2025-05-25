@@ -3,9 +3,6 @@
 ### hello
 <p> <i>Software Engineer</i>, São Paulo </p>
 
-- 🎉 Web and Data dev!
-- 🔭 Currently working on **__**
-
 ### Languages and Tools:
 
 <img align="left" width="22" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
